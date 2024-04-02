@@ -14,11 +14,13 @@
     <lastBuildDate>Tue, 02 Apr 2024 19:28:05 -0300</lastBuildDate>
     <atom:link href="http://localhost:32825/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Sobre mim</title>
       <link>http://localhost:32825/about/</link>
       <pubDate>Tue, 02 Apr 2024 19:28:05 -0300</pubDate>
       <guid>http://localhost:32825/about/</guid>
-      <description></description>
+      <description>Mineiro, apaixonado por tecnologia e impulsionado por desafios, sou um Especialista em Gestão de Produtos e Engenheiro de Software com sólida experiência na concepção, desenvolvimento e entrega de soluções inovadoras.
+Minha jornada profissional me permitiu atuar em diversos setores, como Saúde, Finanças, FoodService, Consultoria e Educação. Ao longo dessa trajetória, tive a oportunidade de liderar equipes, gerenciar projetos complexos e desenvolver produtos que impactam positivamente a vida das pessoas.
+Meus pontos fortes incluem:</description>
     </item>
   </channel>
 </rss>
